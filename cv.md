@@ -1,6 +1,7 @@
 # Egorova Marina 
 __UX|UI designer__
 
+![Alt-Егорова Марина](https://s1.1zoom.me/b5050/172/293269-zero_1600x1200.jpg)
 
 [VK](https://vk.com/marina.egorovaa) | [Behance](https://www.behance.net/evollove08f47c) | [Сайт](https://www.behance.net/evollove08f47c) 
 
@@ -14,3 +15,15 @@ __UX|UI designer__
 
 
 ### НАВЫКИ
+- [x] адаптивная верстка НА TILDA с применением кода
+- [x] дизайн САЙТА
+- [x] прототипирование
+- [x] основы html, css
+- [x] ОСНОВЫ SEO
+- [x] копирайтинг
+- [x] анимация, коллаж
+- [x] брендинг в instagram
+
+#### КОНТАКТЫ
+- [позвонить](tel.+79828215760)
+- [написать](mailto:evollove90@yandex.ru)
